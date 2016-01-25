@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Project Android\FragmentBasics1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Project Android\FragmentBasics1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-95abe045a9c58b2e6fc47e6c101a73547b30faa9.jar" />
+    </item>
+    <item
+        jar="C:\Users\MSI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Project Android\FragmentBasics1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-a0c6239c444d632a8ccaaefb3ee84a9a1f2b7589.jar" />
+    </item>
+    <item
+        jar="E:\Project Android\FragmentBasics1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Project Android\FragmentBasics1\app\build\intermediates\pre-dexed\debug\classes-ccc39d86bd3f9f854045f5582b96329851aec2d3.jar" />
+    </item>
+
+</items>
